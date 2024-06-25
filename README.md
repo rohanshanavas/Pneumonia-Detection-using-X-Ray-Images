@@ -45,3 +45,7 @@ The model's performance is evaluated on test data and accuracy is not a trustwor
 5. **Use the Web Application**:
    - Once the application starts running, go to [http://localhost:5000](http://localhost:5000).
    - Upload an X-ray image of your choice and let the model predict the result.
+  
+## Screenshot of the Application
+
+![](screenshot.png)
